@@ -9,7 +9,7 @@ Designing and managing secure computer systems breaks out into 4 layers: hardwar
 ### Understand the fundamental concepts of security models
 * Access control and least privilege - Bella-lapadula model
 * Complex environments - Lattice-based access control
-* Integirty - Biba Model, Clark-Wilson
+* Integrity - Biba Model, Clark-Wilson
 * Conflict of Interest - Chinese Wall Model
 
 ### Select controls based upon systems security requirements
